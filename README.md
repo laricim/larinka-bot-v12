@@ -1,6 +1,8 @@
 #EN
 My bot that I made as a public bot but didn't add it to the servers
 
+If you don't want to deal with it, you can add it directly to your server. ![Larinka Bot Link]https://discord.com/api/oauth2/authorize?client_id=902223088295497758&permissions=8&scope=bot 
+
 # Setup
 
 1- Download [Node.JS](https://nodejs.org/en/)
