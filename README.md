@@ -45,7 +45,6 @@ Boşlukları doldurun.
 * "footer" : "Larinka Bot"
 * "COLOR" : "00e5ee"
 * "x" : " X Emoji ID "
-
 * "yes" : " ✓ Emoji ID "
 ```
 3- CMD veya Powershell'i açın ve npm install yazın. 
@@ -53,4 +52,9 @@ yükleme bittikten sonra start.bat dosyasını açın ve keyfinize bakın.
 
 ![help menu](https://user-images.githubusercontent.com/96020061/162844291-29db68bb-3a38-4ae3-92ce-1013ed8f8486.jpg)
 
-# Hatalar Olabilir / There may be errors Bot Owner Larinka#0007 - 908061037109063712
+Hatalar Olabilir / There may be errors 
+# Bot Owner
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/908061037109063712)](https://discord.com/users/908061037109063712) 
+[![Discord Badge](https://img.shields.io/badge/Discord%20-7289DA.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white)](https://discord.com/users/908061037109063712)
+[![Github Badge](https://img.shields.io/badge/Github%20-171515.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/laricim)
+[!(Instagram Badge](https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thelarinka)
