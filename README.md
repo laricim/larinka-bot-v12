@@ -55,6 +55,7 @@ yükleme bittikten sonra start.bat dosyasını açın ve keyfinize bakın.
 Hatalar Olabilir / There may be errors 
 # Bot Owner
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/908061037109063712)](https://discord.com/users/908061037109063712) 
+
 [![Discord Badge](https://img.shields.io/badge/Discord%20-7289DA.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white)](https://discord.com/users/908061037109063712)
 [![Github Badge](https://img.shields.io/badge/Github%20-171515.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/laricim)
-[!(Instagram Badge](https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thelarinka)
+[![Instagram Badge](https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thelarinka)
