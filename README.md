@@ -27,6 +27,9 @@ after installed open the start.bat and enjoy!
 #TR
 Herkese açık bot olarak yaptığım fakat sunuculara eklemediğim botum
 
+Eğer bunlarla uğraşmak istemiyorsanız direkt sunucunuza ekleyebilirsiniz. [Larinka Bot Link](https://discord.com/api/oauth2/authorize?client_id=902223088295497758&permissions=8&scope=bot)
+
+
 # Kurulum
 1- Download [Node.JS](https://nodejs.org/en/)
 
