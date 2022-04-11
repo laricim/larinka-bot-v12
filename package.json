@@ -4,7 +4,7 @@
   "//3": "updating this file will download and update your packages",
   "name": "hello-express",
   "version": "0.0.1",
-  "description": "Register V12",
+  "description": "Larinka Public V12",
   "main": "larinka.js",
   "scripts": {
     "start": "node larinka.js"
