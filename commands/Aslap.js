@@ -6,20 +6,20 @@ exports.run = async (client, message, args) => {
   //command
 let user = message.mentions.users.first() || client.users.get(args[0])  
 
-//if(!user) return message.reply("Tag the person you want to hug **^^**")
+//if(!user) return message.reply("Tag the person you want to slap **^^**")
 
-  //if(user.bot) return message.reply("You can't kiss the hug!")
+  //if(user.bot) return message.reply("You can't slap the boat!")
 //if(user.id === message.author.id) {
+  
 
- 
   
         async function work() {
-        let owo = (await neko.sfw.cuddle());
+        let owo = (await neko.sfw.slap());
 
         const dog = new Discord.MessageEmbed()
-        .setDescription(`<@${message.author.id}> cuddles <@${user.id}>. nom nom~`)
+        .setDescription(`<@${message.author.id}> slaps <@${user.id}>.`)
         .setImage(owo.url)
-        .setColor(`#000000`)
+        .setColor(client.a.COLOR)
         .setURL(owo.url);
         message.channel.send(dog);
 
@@ -37,5 +37,5 @@ exports.conf = {
 }
 
 exports.help = {
-  name: 'cuddle'
+  name: 'slap'
 };
