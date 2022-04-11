@@ -24,7 +24,7 @@ Fill in the blanks
 3- Open CMD or Powershell and write the npm install
 after installed open the start.bat and enjoy!
 
-#TR
+# TR
 Herkese açık bot olarak yaptığım fakat sunuculara eklemediğim botum
 
 Eğer bunlarla uğraşmak istemiyorsanız direkt sunucunuza ekleyebilirsiniz. [Larinka Bot Link](https://discord.com/api/oauth2/authorize?client_id=902223088295497758&permissions=8&scope=bot)
