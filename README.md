@@ -1,4 +1,4 @@
-# 25 STAR BETTER BOT - 25 YILDIZA DAHA İYİ BOT
+# - 25 YILDIZA DAHA İYİ BOT
 
 # EN
 My bot that I made as a public bot but didn't add it to the servers
