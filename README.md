@@ -31,9 +31,9 @@ Eğer bunlarla uğraşmak istemiyorsanız direkt sunucunuza ekleyebilirsiniz. [L
 
 
 # Kurulum
-1- Download [Node.JS](https://nodejs.org/en/)
+1- [Node.JS](https://nodejs.org/en/) Yükleyin.
 
-2- Download the zip and extract to desktop and go to the 
+2- Zipi indirip masaüstüne atın.
 ```js
 ayarlar.json
 ```
